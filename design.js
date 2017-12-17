@@ -93,7 +93,7 @@ if ( $(window).width() > 414 && $(window).width() <= 736) {
 // screen size too small
 
 	} else {
-		alert('OUT OF BOUNDS')
+		alert('YOUR SCREEN SIZE IS TOO SMALL FOR THIS APP')
 	};
 
 };
